@@ -1,0 +1,4 @@
+/Users/saschamailander/Desktop/Coding/Learn.Microsoft/CsharpProjects/CsharpCodeChallenge1/obj/Debug/net7.0/CsharpCodeChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saschamailander/Desktop/Coding/Learn.Microsoft/CsharpProjects/CsharpCodeChallenge1/obj/Debug/net7.0/CsharpCodeChallenge1.AssemblyInfoInputs.cache
+/Users/saschamailander/Desktop/Coding/Learn.Microsoft/CsharpProjects/CsharpCodeChallenge1/obj/Debug/net7.0/CsharpCodeChallenge1.AssemblyInfo.cs
+/Users/saschamailander/Desktop/Coding/Learn.Microsoft/CsharpProjects/CsharpCodeChallenge1/obj/Debug/net7.0/CsharpCodeChallenge1.csproj.CoreCompileInputs.cache
